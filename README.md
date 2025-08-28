@@ -9,7 +9,7 @@ QuickDesk is a simple, easy-to-use help desk ticketing system built with the MER
 ### ✅ Current Features
 - User registration and login with role selection (`user` or `support`)
 - Secure authentication using JWT
-- Passwords hashed using bcrypt
+- Passwords hashed using Bcrypt
   
 - User Dashboard:
   - Submit new support tickets
